@@ -19,3 +19,5 @@ def get_list_ftp_subdir(ftp, cwd, files = []):
         else:
             files.append(name)
     return files
+
+#참고자료 https://nowonbun.tistory.com/698
